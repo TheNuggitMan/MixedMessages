@@ -10,7 +10,9 @@ Taking to project too far....
 ------
 I initially created a much more in-depth project which you can see here. 
 **Github:**
-https://github.com/TheNuggitMan/SongStructureGenerator
+[See the Code](https://github.com/TheNuggitMan/SongStructureGenerator)
 
 **GitPages:**
-https://thenuggitman.github.io/SongStructureGenerator/
+[See the page](https://thenuggitman.github.io/SongStructureGenerator/)
+
+So quickly made this version to stay in-keeping of the project guidelines..
